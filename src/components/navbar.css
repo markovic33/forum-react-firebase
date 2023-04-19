@@ -1,0 +1,46 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    background-color: darkgrey;
+    color: black;
+    padding: 10px;
+}
+.left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: darkgrey;
+}
+.links {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: grey;
+}
+.center {
+    background-color: darkgrey;
+}
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: darkgrey;
+}
+.login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    border: 1px solid grey;
+    background-color: grey;
+    border-radius: 5px;
+}

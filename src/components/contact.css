@@ -1,0 +1,16 @@
+.contact__ {
+    text-align: center;
+}
+.contact__ h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.contact__c {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.contact__left {
+    margin-left: 10px;
+    text-align: center;
+}

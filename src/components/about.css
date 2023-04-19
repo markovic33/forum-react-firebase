@@ -1,0 +1,12 @@
+.aboute__ {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 40px;
+}
+.aboute__ h1{
+    text-align: center;
+}
+.aboute__ p {
+    margin-left: 10px;
+}

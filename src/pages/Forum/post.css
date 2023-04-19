@@ -1,0 +1,21 @@
+.post {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+.post-title {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+.post-body {
+    font-size: 14px;
+    color: black;
+}
+.post-user {
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+}

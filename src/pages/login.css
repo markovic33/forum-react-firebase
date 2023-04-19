@@ -1,0 +1,22 @@
+.login__ {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.login__ p {
+    margin-top: 30px;
+    font-size: 30px;
+}
+.login__ button {
+    width: 200px;
+    height: 35px;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.login__ button:hover {
+    background-color: green;
+}
